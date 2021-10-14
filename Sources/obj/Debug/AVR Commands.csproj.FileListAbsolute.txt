@@ -1,9 +1,0 @@
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\bin\Debug\AVR Commands.exe.config
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\bin\Debug\AVR Commands.exe
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\bin\Debug\AVR Commands.pdb
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\obj\Debug\AVR Commands.csprojResolveAssemblyReference.cache
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\obj\Debug\AVR_Commands.Form1.resources
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\obj\Debug\AVR_Commands.Properties.Resources.resources
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\obj\Debug\AVR Commands.csproj.GenerateResource.Cache
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\obj\Debug\AVR Commands.exe
-c:\users\ciesl\OneDrive\Dokumente\Visual Studio 2015\Projects\AVR Commands\AVR Commands\obj\Debug\AVR Commands.pdb
